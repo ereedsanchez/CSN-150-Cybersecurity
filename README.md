@@ -1,12 +1,9 @@
 # CSN-150-Cybersecurity
  
-Instructor: Edwin Reed-Sanchez
-
-Email:	ereedsanchez@gmail.com
-
-Class meets: M / F  -  1:00PM - 3:45PM
-
-Office Hours: M / F - 4:00PM - 5:00PM
+Instructor: Edwin Reed-Sanchez<br/>
+Email:	ereedsanchez@gmail.com<br/>
+Class meets: M / F  -  1:00PM - 3:45PM<br/>
+Office Hours: M / F - 4:00PM - 5:00PM<br/>
 
 #### Course required textbook: 
 Network Security First-Step,<br/>
