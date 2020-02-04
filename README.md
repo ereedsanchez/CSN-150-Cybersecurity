@@ -9,9 +9,9 @@ Class meets: M / F  -  1:00PM - 3:45PM
 Office Hours: M / F - 4:00PM - 5:00PM
 
 #### Course required textbook: 
-Network Security First-Step,
-Author: Tom Thomas
-Publisher: Cisco Press
+Network Security First-Step,<br/>
+Author: Tom Thomas<br/>
+Publisher: Cisco Press<br/>
 ISBN-13: 978-1587204104 
 
 Course Description: 
