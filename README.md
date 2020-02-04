@@ -35,7 +35,7 @@ Total 100%<br/>
 
 #### Weeks
 #### Topics Covered (Broad scope and is subject to change)
-[1 - Course Introduction, Introduction to TCP/IP Internetworking<br/>](../blob/master/LICENSE)
+[1 - Course Introduction, Introduction to TCP/IP Internetworking<br/>](../master/CSN-Week-1.md)
 
 2 - What is MALWARE?<br>
 3 - Sub Network and Sub Network Mask<br/>
