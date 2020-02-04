@@ -1,11 +1,11 @@
 # CSN-150-Cybersecurity
-Cybersecurity Curriculum 
-
-CSN 150 – Cybersecurity
  
 Instructor: Edwin Reed-Sanchez
+
 Email:	ereedsanchez@gmail.com
+
 Class meets: M / F  -  1:00PM - 3:45PM
+
 Office Hours: M / F - 4:00PM - 5:00PM
 
 Course required textbook: 
