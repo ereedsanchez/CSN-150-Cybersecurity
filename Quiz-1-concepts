@@ -13,7 +13,7 @@
 - Application Controls
 - Payloads
 - Adware
--Spyware
+- Spyware
 - Ransomeware
 - Cryptolocker
 - Preventing Malware
@@ -31,5 +31,28 @@
 - Advance Persistent Threats (APT)
 - Script Kiddies- Internal or Insider Attacks
 - External Attackers
-- Attacker motivations (Organized Crime, Corporate Espionage)- Hacktivist- Nation State Hackers- Privileged Escalation - FBI Behavioral Indicators- Threat Intelligence- Open Source Intelligence- Denial of Service (DoS)- Distributed Denial of Service (DDoS)- Amplification DDoS- DDos Protection- CIA Triad- Ping Command- Smurf Attack - Eaves Dropping Attacks- Man in the Middle- DNS Poisoning - ARP Poisoning - Typo-squatting - Man in the Browser- Replay Attack - Targets of Opportunity (First-Step)- Targets of Choice (First-Step)- Mis-configuration  Attacks (First-Step)  
+- Attacker motivations (Organized Crime, Corporate Espionage)
+- Hacktivist
+- Nation State Hackers
+- Privileged Escalation 
+- FBI Behavioral Indicators
+- Threat Intelligence
+- Open Source Intelligence
+- Denial of Service (DoS)
+- Distributed Denial of Service (DDoS)
+- Amplification DDoS
+- DDos Protection
+- CIA Triad
+- Ping Command
+- Smurf Attack 
+- Eaves Dropping Attacks
+- Man in the Middle
+- DNS Poisoning 
+- ARP Poisoning 
+- Typo-squatting 
+- Man in the Browser
+- Replay Attack 
+- Targets of Opportunity (First-Step)
+- Targets of Choice (First-Step)
+- Mis-configuration  Attacks (First-Step)  
 - Security Policies (First-Step)
