@@ -56,7 +56,21 @@ If you have any questions do not hesitate to contact me.
 
 
 #### 2 - What is MALWARE
+Slides: https://docs.google.com/presentation/d/1ukrYbdVJr6kn92lS1YJcqRGm23cLMvX30dS6rCb6d8g/edit?usp=sharing
 
+HW: Complete Labs 
+- Securing the pfSense Firewall
+- Implementing NAT and Allowing Remote Access
+- Implementing Common Protocols and Services
+- Examining Wireless NetworkS
+Also add me as your professor with email ereedsanchez@gmail.com in infoseclearning.com. 
+
+2. In your groups do a 3 slide malware report. Due feb 13. 
+1st slide: name of virus, what did the virus do, and how many people where affected. 
+2nd slide: How does the malware work? What is it’s mode of transmission. And how did it effect the computer system. 
+3rd slide: who discovered the malware. What was the security patch or fix. 
+
+Please use some images or diagrams to try to explain the virus. The purpose of this homework is to get an in-depth knowledge of a particular malware and be able to present it and discuss it in detail. Send slides with the names of people in your group by Fed. 13 midnight. 
 
 
 
