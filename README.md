@@ -79,7 +79,8 @@ Slides: https://docs.google.com/presentation/d/1oLkFhQaVt_ol68vZpLdVgMWpJJBW5rDi
 HW: Read Chapter 3 of network Security First-Step
 Prepare for Quiz on 2/24/2020
 
-##### Quiz: 2/24/2020
+#### Quiz: 2/24/2020
+[Quiz Concepts](https://www.google.com)
 Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapter 1  and Chapter 2 of Network Securoty First-Step. 
 
 
