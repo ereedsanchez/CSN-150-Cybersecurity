@@ -72,17 +72,14 @@ Also add me as your professor with email ereedsanchez@gmail.com in infoseclearni
 
 Please use some images or diagrams to try to explain the virus. The purpose of this homework is to get an in-depth knowledge of a particular malware and be able to present it and discuss it in detail. Send slides with the names of people in your group by Fed. 13 midnight. 
 
-
-
-#### 3 - 
+#### 3 - Cyber Adversaries
 Slides: https://docs.google.com/presentation/d/1oLkFhQaVt_ol68vZpLdVgMWpJJBW5rDiQEYM4w40IyU/edit?usp=sharing
 HW: Read Chapter 3 of network Security First-Step
 Prepare for Quiz on 2/24/2020
 
 #### Quiz: 2/24/2020
-[Quiz Concepts](https://www.google.com)
-Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapter 1  and Chapter 2 of Network Securoty First-Step. 
-
+Here are the [quiz concepts](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Quiz-1-concepts)
+Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapter 1  and Chapter 2 of Network Securoty First-Step. The quiz WILL NOT cover Chapter 3.
 
 
 #### 4 - Security Technologies<br/>
