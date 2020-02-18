@@ -36,17 +36,13 @@ Total 100%<br/>
 #### Weeks
 #### Topics Covered (Broad scope and is subject to change)
 
-####1 - Course Introduction, Introduction to TCP/IP Internetworking
-### Week 1<br/>
+#### 1 - Course Introduction, Introduction to TCP/IP Internetworking
+Slides:https://docs.google.com/presentation/d/1HjdD89lfYpah78l4yrrGfN_ehLDud0-ePek8CYMV9to/edit?usp=sharing
 
-SLIDES:https://docs.google.com/presentation/d/1HjdD89lfYpah78l4yrrGfN_ehLDud0-ePek8CYMV9to/edit?usp=sharing
-
-### HOMEWORK
-
+HOMEWORK
 1. Draw your network at home (Due Sunday Feb 2)
 You can use vizio,creatly, lucidchart, or just sketch it out on paper
 Here is a link to understand network diagrams: creately.com/blog/diagrams/network-diagram-guide-tutorial
-
 
 2. Read Chapter 1
 Network Security First-Step
@@ -59,14 +55,18 @@ Implementing NAT and Allowing Remote Access (due Friday Feb. 7 )
 If you have any questions do not hesitate to contact me.
 
 
-2 - What is MALWARE?<br>
-3 - Sub Network and Sub Network Mask<br/>
-4 - Security Technologies<br/>
-5 - Security protocols<br/>
-6 & 7 - Firewalls and their Implementation<br/>
-8 - Review & Mid Term Exam<br/>
-9 & 10 - Virtual Private Networks (VPN)<br/>
-11 & 12 - Wireless Security<br/>
-13 & 14 - Intrusion Detection Systems (IDS)<br/>
-15 - Final Exam<br/>
+#### 2 - What is MALWARE
+
+
+
+
+#### 3 - Sub Network and Sub Network Mask<br/>
+#### 4 - Security Technologies<br/>
+#### 5 - Security protocols<br/>
+#### 6 & 7 - Firewalls and their Implementation<br/>
+#### 8 - Review & Mid Term Exam<br/>
+#### 9 & 10 - Virtual Private Networks (VPN)<br/>
+#### 11 & 12 - Wireless Security<br/>
+#### 13 & 14 - Intrusion Detection Systems (IDS)<br/>
+#### 15 - Final Exam<br/>
 
