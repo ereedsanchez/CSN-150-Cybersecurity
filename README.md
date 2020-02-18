@@ -74,12 +74,15 @@ Please use some images or diagrams to try to explain the virus. The purpose of t
 
 
 
-#### 3 - Sub Network and Sub Network Mask<br/>
+#### 3 - 
 Slides: https://docs.google.com/presentation/d/1oLkFhQaVt_ol68vZpLdVgMWpJJBW5rDiQEYM4w40IyU/edit?usp=sharing
-HW: 
+HW: Read Chapter 3 of network Security First-Step
+Prepare for Quiz on 2/24/2020
+
+##### Quiz: 2/24/2020
+Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapter 1  and Chapter 2 of Network Securoty First-Step. 
 
 
-##### Quiz: 2/20/2020
 
 #### 4 - Security Technologies<br/>
 #### 5 - Security protocols<br/>
