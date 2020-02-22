@@ -81,6 +81,8 @@ Prepare for Quiz on 2/24/2020
 Here are the [quiz concepts](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Quiz-1-concepts)
 Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapter 1  and Chapter 2 of Network Securoty First-Step. The quiz WILL NOT cover Chapter 3.
 
+Slides: [Quiz Prep](https://docs.google.com/presentation/d/1auNb4FgyW92TLgnBXtj7uu4vAMBx1MrZkFjia6p72is/edit?usp=sharing
+)
 
 #### 4 - Security Technologies<br/>
 #### 5 - Security protocols<br/>
