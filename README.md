@@ -84,12 +84,29 @@ Quiz will include concepts in Slides from week 1, week 2, and week 3; and Chapte
 Slides: [Quiz Prep](https://docs.google.com/presentation/d/1auNb4FgyW92TLgnBXtj7uu4vAMBx1MrZkFjia6p72is/edit?usp=sharing
 )
 
-#### 4 - Security Technologies<br/>
-#### 5 - Security protocols<br/>
-#### 6 & 7 - Firewalls and their Implementation<br/>
-#### 8 - Review & Mid Term Exam<br/>
-#### 9 & 10 - Virtual Private Networks (VPN)<br/>
-#### 11 & 12 - Wireless Security<br/>
-#### 13 & 14 - Intrusion Detection Systems (IDS)<br/>
-#### 15 - Final Exam<br/>
+#### 4 - March 2 Security Policies + Risk assesment
+Slides: https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcUhsRHtM7PwJWE/edit?usp=sharing
+
+This week we are working on understanding security risk assesments based on different types of companies.  
+
+Group (home)work will be to find a company and do a thourough risk assesment of the compainy and it major security threats.  
+https://docs.google.com/document/d/1wNdnjTiPUrfewxun8oDHPNxpoNKUf7tfZyyU7n0oz4k/edit?usp=sharing
+Final Presentations for Risk Assement will be due on Friday March 13. 
+
+#### 5 - March 6 
+Review of Labs: 
+- Implementing Security Policies on Windows and Linux
+- Data Backups in Windows, BSD, and Linux
+
+
+
+Future 
+- Security Technologies<br/>
+- Security protocols<br/>
+- Firewalls and their Implementation<br/>
+- Review & Mid Term Exam<br/>
+- Virtual Private Networks (VPN)<br/>
+- Wireless Security<br/>
+- Intrusion Detection Systems (IDS)<br/>
+- Final Exam<br/>
 
