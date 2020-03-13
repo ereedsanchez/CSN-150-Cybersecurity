@@ -113,7 +113,7 @@ https://docs.google.com/document/d/1RtDZEnO0txyAzLwQUHwSSrhVRy2lB9JKYam4RfKON1I/
 -Worksheet 2
 https://docs.google.com/document/d/125eoFSXncNCNY0PuCf2BLZkTZba4hBstwvfzNkWgO6k/edit?usp=sharing
 
-Homework: [Complete Risk Assesment Report](.)
+Homework: [Complete Risk Assesment Report](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Security%20Assessment%20Report)
 
 
 
