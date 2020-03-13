@@ -93,7 +93,7 @@ Group (home)work will be to find a company and do a thourough risk assesment of 
 https://docs.google.com/document/d/1wNdnjTiPUrfewxun8oDHPNxpoNKUf7tfZyyU7n0oz4k/edit?usp=sharing
 Final Presentations for Risk Assement will be due on Friday March 13. 
 
-#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 6 
+#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 2 & 6 
 Review of Labs: 
 - Implementing Security Policies on Windows and Linux
 - Data Backups in Windows, BSD, and Linux
@@ -103,7 +103,15 @@ Slides: https://docs.google.com/presentation/d/1TDRPUZrCqidEW2b2yJGFJZowKgSDNocd
 Tutorial for Linux Terminal: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
 Tutorial for CMD
 
-Future 
+#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 9 & 13
+Lecture: https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcUhsRHtM7PwJWE/edit?usp=sharing
+Lecture: Risk Management, Risk Avoidance, Risk Transference, Risk Mitigation, Risk Acceptance, Risk Deterrents, Risk Register.
+In-class: In groups complete Company Risk Assesment Worksheet
+
+Homework: Complete Risk Assesment Report.
+
+
+#### Future Topics 
 - Security Technologies<br/>
 - Security protocols<br/>
 - Firewalls and their Implementation<br/>
