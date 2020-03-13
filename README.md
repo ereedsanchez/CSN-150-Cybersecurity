@@ -107,8 +107,14 @@ Tutorial for CMD
 Lecture: https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcUhsRHtM7PwJWE/edit?usp=sharing
 Lecture: Risk Management, Risk Avoidance, Risk Transference, Risk Mitigation, Risk Acceptance, Risk Deterrents, Risk Register.
 In-class: In groups complete Company Risk Assesment Worksheet
+Company Security Risk Assessment Worksheets
+- Worksheet 1 
+https://docs.google.com/document/d/1RtDZEnO0txyAzLwQUHwSSrhVRy2lB9JKYam4RfKON1I/edit?usp=sharing
+-Worksheet 2
+https://docs.google.com/document/d/125eoFSXncNCNY0PuCf2BLZkTZba4hBstwvfzNkWgO6k/edit?usp=sharing
 
-Homework: Complete Risk Assesment Report.
+Homework: [Complete Risk Assesment Report](.)
+
 
 
 #### Future Topics 
