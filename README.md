@@ -37,7 +37,7 @@ Total 100%<br/>
 #### Topics Covered (Broad scope and is subject to change)
 
 #### 1 - Course Introduction, Introduction to TCP/IP Internetworking
-Slides:https://docs.google.com/presentation/d/1HjdD89lfYpah78l4yrrGfN_ehLDud0-ePek8CYMV9to/edit?usp=sharing
+[Slides](https://docs.google.com/presentation/d/1HjdD89lfYpah78l4yrrGfN_ehLDud0-ePek8CYMV9to/edit?usp=sharing)
 
 HOMEWORK
 1. Draw your network at home (Due Sunday Feb 2)
@@ -56,7 +56,7 @@ If you have any questions do not hesitate to contact me.
 
 
 #### 2 - What is MALWARE
-Slides: https://docs.google.com/presentation/d/1ukrYbdVJr6kn92lS1YJcqRGm23cLMvX30dS6rCb6d8g/edit?usp=sharing
+[Slides](https://docs.google.com/presentation/d/1ukrYbdVJr6kn92lS1YJcqRGm23cLMvX30dS6rCb6d8g/edit?usp=sharing)
 
 HW: Complete Labs 
 - Securing the pfSense Firewall
@@ -73,7 +73,7 @@ Also add me as your professor with email ereedsanchez@gmail.com in infoseclearni
 Please use some images or diagrams to try to explain the virus. The purpose of this homework is to get an in-depth knowledge of a particular malware and be able to present it and discuss it in detail. Send slides with the names of people in your group by Fed. 13 midnight. 
 
 #### 3 - Cyber Adversaries
-Slides: https://docs.google.com/presentation/d/1oLkFhQaVt_ol68vZpLdVgMWpJJBW5rDiQEYM4w40IyU/edit?usp=sharing
+[Slides](https://docs.google.com/presentation/d/1oLkFhQaVt_ol68vZpLdVgMWpJJBW5rDiQEYM4w40IyU/edit?usp=sharing)
 HW: Read Chapter 3 of network Security First-Step
 Prepare for Quiz on 2/24/2020
 
@@ -99,8 +99,8 @@ Review of Labs:
 - Data Backups in Windows, BSD, and Linux
 
 Review basic commands for Linux Command line and Microsoft Command Prompt. 
-Slides: https://docs.google.com/presentation/d/1TDRPUZrCqidEW2b2yJGFJZowKgSDNocdOAkFdzdBUlg/edit?usp=sharing
-Tutorial for Linux Terminal: https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners
+[Command Slides](https://docs.google.com/presentation/d/1TDRPUZrCqidEW2b2yJGFJZowKgSDNocdOAkFdzdBUlg/edit?usp=sharing)
+[Tutorial for Linux Terminal](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 Tutorial for CMD
 
 #### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 9 & 13
@@ -108,10 +108,8 @@ Lecture: https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcU
 Lecture: Risk Management, Risk Avoidance, Risk Transference, Risk Mitigation, Risk Acceptance, Risk Deterrents, Risk Register.
 In-class: In groups complete Company Risk Assesment Worksheet
 Company Security Risk Assessment Worksheets
-- Worksheet 1 
-https://docs.google.com/document/d/1RtDZEnO0txyAzLwQUHwSSrhVRy2lB9JKYam4RfKON1I/edit?usp=sharing
--Worksheet 2
-https://docs.google.com/document/d/125eoFSXncNCNY0PuCf2BLZkTZba4hBstwvfzNkWgO6k/edit?usp=sharing
+- [Worksheet 1](https://docs.google.com/document/d/1RtDZEnO0txyAzLwQUHwSSrhVRy2lB9JKYam4RfKON1I/edit?usp=sharing)
+- [Worksheet 2](https://docs.google.com/document/d/125eoFSXncNCNY0PuCf2BLZkTZba4hBstwvfzNkWgO6k/edit?usp=sharing)
 
 Homework: [Complete Risk Assesment Report](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Security%20Assessment%20Report)
 
