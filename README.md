@@ -115,6 +115,10 @@ https://docs.google.com/document/d/125eoFSXncNCNY0PuCf2BLZkTZba4hBstwvfzNkWgO6k/
 
 Homework: [Complete Risk Assesment Report](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Security%20Assessment%20Report)
 
+#### 6 - Midterm Review
+The midterm will be on released on March 20 and will need to be completed by March 22. 
+Your midterm grade will include: Labs 1-6, Malware Presentation, Company Risk Assesment Report, Security Test 1, Security Midterm, and attendance. 
+Here is what will be on the midterm: [Midterm Slides](https://docs.google.com/presentation/d/1VGYkXgdtES914a9XQoLWappjtaPrbgAjhuwb2PjBKRY/edit?usp=sharing)
 
 
 #### Future Topics 
