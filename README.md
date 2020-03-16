@@ -127,7 +127,6 @@ Here is what will be on the midterm: [Midterm Slides](https://docs.google.com/pr
 - Firewalls and their Implementation<br/>
 - Review & Mid Term Exam<br/>
 - Virtual Private Networks (VPN)<br/>
-- Wireless Security<br/>
 - Intrusion Detection Systems (IDS)<br/>
 - Final Exam<br/>
 
