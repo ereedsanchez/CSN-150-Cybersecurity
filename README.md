@@ -92,7 +92,7 @@ This week we are working on understanding security risk assesments based on diff
 Group (home)work will be to find a company and do a thourough risk assesment of the compainy and it major security threats. [Security Threat Worksheet](https://docs.google.com/document/d/1wNdnjTiPUrfewxun8oDHPNxpoNKUf7tfZyyU7n0oz4k/edit?usp=sharing)
 Final Presentations for Risk Assement will be due on Friday March 13. 
 
-#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 2 & 6 
+#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial 
 Review of Labs: 
 [Slides](https://docs.google.com/presentation/d/1TDRPUZrCqidEW2b2yJGFJZowKgSDNocdOAkFdzdBUlg/edit?usp=sharing)
 - Implementing Security Policies on Windows and Linux
@@ -103,8 +103,8 @@ Review basic commands for Linux Command line and Microsoft Command Prompt.
 - [Tutorial for Linux Terminal](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
 - Tutorial for CMD
 
-#### 5 - Review Labs 5 & 6 - Terminal & Command Prompt Tutorial - March 9 & 13
-Lecture: https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcUhsRHtM7PwJWE/edit?usp=sharing
+#### 6 - Risk Management
+[Slides](https://docs.google.com/presentation/d/1or7vlaJ8Bf5fULOsoWEhq-K29Y_xNcUhsRHtM7PwJWE/edit?usp=sharing)
 Lecture: Risk Management, Risk Avoidance, Risk Transference, Risk Mitigation, Risk Acceptance, Risk Deterrents, Risk Register.
 In-class: In groups complete Company Risk Assesment Worksheet
 Company Security Risk Assessment Worksheets
@@ -113,7 +113,7 @@ Company Security Risk Assessment Worksheets
 
 Homework: [Complete Risk Assesment Report](https://github.com/ereedsanchez/CSN-150-Cybersecurity/blob/master/Security%20Assessment%20Report)
 
-#### 6 - Midterm Review
+#### 7 - Midterm Review
 The midterm will be on released on March 20 and will need to be completed by March 22. 
 Your midterm grade will include: Home Network Diagram, Labs 1-6, Malware Presentation, Company Risk Assesment Report, Security Test 1, Security Midterm, and attendance. 
 Here is what will be on the midterm: [Midterm Slides](https://docs.google.com/presentation/d/1VGYkXgdtES914a9XQoLWappjtaPrbgAjhuwb2PjBKRY/edit?usp=sharing)
